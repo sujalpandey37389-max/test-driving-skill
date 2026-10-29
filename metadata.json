@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Drift: Highway Rush",
+  "description": "High-octane 3D highway racer with smooth controls, dynamic traffic dodging, progressive speed boost, and high score pursuit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
